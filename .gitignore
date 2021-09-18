@@ -1,0 +1,11 @@
+# Project exclude paths
+/api/target/
+/db/target/
+/service/target/
+/src/test/java/
+/src/test/
+/.idea/.gitignore
+/.idea/compiler.xml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/vcs.xml
